@@ -28,14 +28,14 @@ export default function AboutUs() {
                 <div className="bg-white/10 backdrop-blur-md rounded-2xl p-12 mb-20">
                     <h2 className="text-4xl font-bold text-white mb-8">HISTORY</h2>
                     <p className="text-2xl text-white/90 leading-relaxed font-light max-w-4xl mx-auto">
-                        Founded in 1990 in Casablanca, Cayla is a certified textile laboratory specializing in the development, production, and export of high-quality textile solutions. With over 30 years of experience, Cayla has established itself as a trusted partner in the textile industry, combining traditional expertise with a forward-looking approach to innovation.
+  Founded in 1990 in Casablanca, Cayla is a certified textile laboratory specializing in the development, production, and export of high-quality textile solutions. With over 30 years of experience, Cayla has established itself as a trusted partner in the textile industry, combining traditional expertise with a forward-looking approach to innovation.
 
-                        Driven by a strong commitment to research and development, we continuously explore new methods and sustainable materials to meet the highest standards of quality, safety, and environmental responsibility. Our dedicated technical teams work closely with clients to create custom solutions for garment dyeing, denim finishing, and textile treatment.
+  Driven by a strong commitment to research and development, we continuously explore new methods and sustainable materials to meet the highest standards of quality, safety, and environmental responsibility. Our dedicated technical teams work closely with clients to create custom solutions for garment dyeing, denim finishing, and textile treatment.
 
-                        Located at the heart of Morocco's industrial capital, Cayla serves both local and international markets, exporting to more than 10 countries. We are proud to support the entire textile value chain with certified, responsibly sourced products — designed for performance and developed with purpose.
+  Located at the heart of Morocco&apos;s industrial capital, Cayla serves both local and international markets, exporting to more than 10 countries. We are proud to support the entire textile value chain with certified, responsibly sourced products — designed for performance and developed with purpose.
 
-                        At Cayla, innovation is not a trend — it's our foundation.
-                    </p>
+  At Cayla, innovation is not a trend — it&apos;s our foundation.
+</p>
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-20">
